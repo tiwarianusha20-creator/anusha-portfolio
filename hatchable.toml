@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "Anusha Tiwari — Creative Portfolio"
+description = "A premium personal portfolio for Anusha Tiwari, showcasing creative design, branding, content creation, digital marketing, video editing and website demonstration work."
